@@ -186,9 +186,9 @@ export default {
                 path: "/2019DeepSpace",
             },
             {
-                photo: require("@/assets/Elements/Home/Charlee's Comets.jpeg"),
-                text: "2019 Charlle's Comet",
-                path: "",
+                photo: require("@/assets/Elements/Everywhere-2020 Infinite Recharge.png"),
+                text: "FRC2020:Infinite Recharge",
+                path: "/2020InfiniteRecharge",
             },
             {
                 photo: require("@/assets/Logo7636.jpg"),
@@ -196,9 +196,9 @@ export default {
                 path: "/Team 7636",
             },
             {
-                photo: "",
-                text: "Coming up ~~~",
-                path: "",
+                photo: require("@/assets/Elements/Home/Charlee's Comets.jpeg"),
+                text: "2019 Charlle's Comet",
+                path: "/2019DeepSpace",
             }
         ],        
     }),
