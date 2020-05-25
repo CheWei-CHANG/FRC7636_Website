@@ -167,10 +167,10 @@ export default {
                 path: "/Team 7636",
             },
             {
-                title: "FRC 2019",
-                content: "We’ve been participating in the Southern Cross Regional Competition located in NSW of Australia in our rookie year, 2019. We’ve gained a lot through the pass season. Our robot, Charlie’s Comet, had been upgraded and improved through the CTSP Pre-competition and the CTSP off season competition.",
-                imgPath: require("@/assets/Elements/Home/IMG_8742.jpeg"),
-                path: "/2019DeepSpace",
+                title: "FRC 2020",
+                content: "Due to the COVID-19 virus, we didn't have a chance to participate in any of the regional competitions just like the teams in the rest of the world, by the virtual interview session and by the clever mentors and team leaders, we earned ourselves two Dean's list awards finalists in Science Park Taichung regional competition! We also came up with unique ideas for our robot that we would like to share.",
+                imgPath: require("@/assets/Elements/re-2020 Infinite Recharge.png"),
+                path: "/2020InfiniteRecharge",
             },
             {
                 title: "Outreach",
@@ -178,6 +178,11 @@ export default {
                 imgPath: require("@/assets/Elements/Home/GroupPhoto.jpg"),
                 path: "/Outreach",
             },
+            {
+                title: "FRC 2019",
+                content: "We’ve been participating in the Southern Cross Regional Competition located in NSW of Australia in our rookie year, 2019. We’ve gained a lot through the pass season. Our robot, Charlie’s Comet, had been upgraded and improved through the CTSP Pre-competition and the CTSP off season competition.",
+                imgPath: require("@/assets/Elements/Home/IMG_8742.jpeg"),
+                path: "/2019DeepSpace",
         ],
         bottomItems: [
             {
